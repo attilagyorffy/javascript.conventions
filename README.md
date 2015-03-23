@@ -12,5 +12,5 @@ Whilst I think it's important to discuss [cosmetics](http://sideeffect.kr/popula
 
 #TODO:
 
-* Write down the purpose of this document
+* ~~Write down the purpose of this document~~
 * Collect more examples
